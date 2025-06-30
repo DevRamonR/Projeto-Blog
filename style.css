@@ -4,6 +4,7 @@
     box-sizing: border-box;
     text-decoration: none;
     scroll-behavior: smooth;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 #navegacao {
@@ -26,7 +27,7 @@
     width: 50%;
     display: flex;
     flex-direction: column;
-    margin-left: 0;
+    margin-left: 50px;
 }
 
 aside {
@@ -53,11 +54,11 @@ aside {
 .informacoesHome h2 {
     color: #000;
     margin-bottom: 10px;
-    font-size: 40px;
+    font-size: 30px;
 }
 
 .informacoesHome p {
-    font-size: 20px;
+    font-size: 18px;
     margin-bottom: 10px;
     font-style: italic;
     width: 90%;
@@ -78,6 +79,7 @@ aside {
     height: 250px;
     margin-right: 20px;
     align-self: center;
+    margin-bottom: 12px;
 }
 
 .conteudo {
